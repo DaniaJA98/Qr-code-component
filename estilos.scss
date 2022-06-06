@@ -46,11 +46,11 @@ body{
     }
 }
 
-.attribution{
+.attribution {
     font-size: 15px;
     text-align: center;
 
-    a{
+    &-a{
         color: hsl(228, 45%,44%);
     }
 }
